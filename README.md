@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### I'm newit-trungnt
-<!--
-**newit-trungnt/newit-trungnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newit-trungnt&show_icons=true&theme=radical)
 
